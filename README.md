@@ -23,9 +23,9 @@ Welcome to my GitHub galaxy! I'm not just another coder in the void; I'm here to
 </p>
 
 
-## 📈 GitHub Universe Stats
+## 📈 I Driven by a laser-focused mindset
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sezeryldz&show_icons=true&theme=dracula&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+![Cool GIF](https://media1.tenor.com/m/PRN-EHOCuHwAAAAC/the-it-crowd-moss-the-it-crowd.gif)
 
 ## 🏆 Galactic Achievements
 
