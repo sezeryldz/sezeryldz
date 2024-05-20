@@ -23,7 +23,7 @@ Welcome to my GitHub galaxy! I'm not just another coder in the void; I'm here to
 </p>
 
 
-## 📈 I Driven by a laser-focused mindset
+## 📈 I am Driven by a laser-focused mindset
 
 ![Cool GIF](https://media1.tenor.com/m/PRN-EHOCuHwAAAAC/the-it-crowd-moss-the-it-crowd.gif)
 
