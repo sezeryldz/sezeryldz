@@ -26,7 +26,3 @@ Welcome to my GitHub galaxy! I'm not just another coder in the void; I'm here to
 ## 📈 I am Driven by a laser-focused mindset
 
 ![Cool GIF](https://media1.tenor.com/m/PRN-EHOCuHwAAAAC/the-it-crowd-moss-the-it-crowd.gif)
-
-## 🏆 Galactic Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sezeryldz&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
